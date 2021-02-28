@@ -1,4 +1,4 @@
-# BYGB7990--HW1
+# Parsing Rotten Tomatoes using Beautiful Soup
 A script is created that parsed data from Rotten Tomatoes (https://www.rottentomatoes.com/), a movie reviews website.
 - **movie**        a string variable indicating the movie for which reviews will be parsed
 - **pageNum**  the number of review pages to parse
